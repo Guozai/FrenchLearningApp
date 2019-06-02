@@ -1,0 +1,8 @@
+Bugs:
+
+Issues:
+1. the poem is not able to implement the function to hover on certain words then display a new window
+2. the color of the poem, poem player is not able to be change to the required color
+3. the highlighted function of the poem player cannot be the same as requested by the client
+4. Unable to implement SSL on server due to no budget for applying domain name which is needed for applying SSL
+5. Unable to implement PWA due to unable to implement SSL
